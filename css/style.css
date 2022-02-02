@@ -2,7 +2,7 @@
 
 :root{
 
-    --main-color:#d3ad7f;
+    --main-color:#f8da2f;
     --black:#13131a;
     --bg:#010103;
     --border:.1rem solid rgba(255,255,255,.3)
@@ -44,7 +44,7 @@ html::-webkit-scrollbar-thumb{
 
 
 body{
-    background: var(--bg);
+    background: wheat;
 }
 
 
@@ -62,7 +62,7 @@ body{
 }
 
 .header{
-    background: var(--bg);
+    background: var(--main-color);
     display: flex;
     align-items: center;
     justify-content: space-between;
