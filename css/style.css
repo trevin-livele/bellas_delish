@@ -109,14 +109,14 @@ section{
 }
 
 .heading span{
-  color:greenyellow;
+  color:#E06731;
 }
 
 .btn{
   display: inline-block;
   padding:.8rem 3rem;
-  border:.2rem solid yellow;
-  color: yellow;
+  border:.2rem solid #E06731;
+  color: #E06731;
   cursor: pointer;
   font-size: 1.7rem;
   border-radius: .5rem;
@@ -132,7 +132,7 @@ section{
   top:0; right: 0;
   width:0%;
   height:100%;
-  background:yellowgreen;
+  background:#E06731;
   transition: .3s linear;
   z-index: -1;
 }
@@ -315,7 +315,7 @@ header .navbar a:hover{
 .popular .box-container .box .price{
   position: absolute;
   top:3rem; left:3rem;
-  background: yellowgreen;
+  background: #E06731;
   color:#fff;
   font-size: 2rem;
   padding:.5rem 1rem;
@@ -329,7 +329,7 @@ header .navbar a:hover{
 }
 
 .popular .box-container .box .stars i{
-  color:gold;
+  color:#E06731;
   font-size: 1.7rem;
   padding:1rem .1rem;
 }
@@ -349,7 +349,7 @@ header .navbar a:hover{
 
 .steps .box img{
   border-radius: 50%;
-  border:1rem solid #fff;
+  border:1rem solid #E06731;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
 }
 
@@ -441,7 +441,7 @@ header .navbar a:hover{
 
 .review .box-container .box .stars i{
   font-size: 2rem;
-  color:greenyellow;
+  color:#E06731;
   padding:.5rem 0;
 }
 
